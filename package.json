@@ -1,0 +1,1 @@
+{"license": "", "description": "Adds an animation on page load", "contributors": [], "author": "danieldesira", "url": "", "name": "load_effect", "dependencies": ["api-utils", "addon-kit"], "version": "0.1.rev12", "lib": "lib", "fullName": "load_effect", "main": "main", "id": "jid0-4KoawSt6uRqxiZ9SQR0a7p9vn2c", "permissions": {"private-browsing": true}}
